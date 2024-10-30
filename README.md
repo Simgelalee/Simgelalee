@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Simge LALE</h1>
-===========================
+
 
 <h2 align="center">Data Scientist and Data Engineering</h2>
------------------------------------
+
 
 <h3 align="center">🌟I graduated from Çukurova University with a degree in Computer Engineering. I am passionate about Data Science, Machine Learning, Deep Learning, Natural Language Processing (NLP), and Large Language Models (LLMs). I am continuously learning and improving my skills in these fields.</h3>
 
